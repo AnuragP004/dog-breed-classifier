@@ -86,7 +86,7 @@ streamlit run app.py
 
 ## ✍️ Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made by [Anurag Pokhariyal](https://github.com/AnuragP004)
 
 ---
 
